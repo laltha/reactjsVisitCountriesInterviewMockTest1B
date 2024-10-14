@@ -1,0 +1,24 @@
+.images {
+  height: 180px;
+  width: 200px;
+  padding-left: 4px;
+  padding-top: 4px;
+}
+
+.image-list {
+  list-style-type: none;
+  height: 35vh;
+  width: 20vw;
+  background-color: #334155;
+  margin-bottom: 12px;
+}
+
+.remove-button {
+  display: flex;
+  justify-content: space-between;
+}
+
+.paragraph {
+  color: #ffffff;
+  padding-left: 4px;
+}
